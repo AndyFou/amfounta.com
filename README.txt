@@ -1,6 +1,6 @@
 This page was built with:
 
-    Orbit v1.0 (29 Jan 2016) - [Template Website](http://themes.3rdwavemedia.com/website-templates/orbit-free-resume-cv-template-for-developers/)
+    Orbit v1.0 (29 Jan 2016) - (Template Website)[http://themes.3rdwavemedia.com/website-templates/orbit-free-resume-cv-template-for-developers/]
     Xiaoying Riley at 3rd Wave Media (http://themes.3rdwavemedia.com/)
 
     Contact:
